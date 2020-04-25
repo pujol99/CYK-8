@@ -1,0 +1,6 @@
+player 7 6
+mate 3 6
+enemy 50 23 5
+enemy 50 24 10
+enemy 50 25 21
+enemy 50 12 26

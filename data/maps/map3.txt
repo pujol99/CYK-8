@@ -1,0 +1,14 @@
+player 7 6
+mate 4 8
+enemy 200 18 1
+enemy 200 20 1
+enemy 200 22 1
+enemy 200 24 1
+enemy 170 17 8
+enemy 170 19 9
+enemy 170 26 17
+enemy 200 18 21
+enemy 200 20 27
+enemy 200 4 17
+enemy 200 10 16
+enemy 200 5 28
